@@ -29,4 +29,4 @@ Refer to the below image while making connections.<br/>
 * D12 pin of Arduino: Left IR Sensor
 
 ## Live Project Demonstration
-* Youtube: https://youtu.be/NdbG9M8FO6E
+* Youtube: https://youtu.be/gcR8DhlYLHY
