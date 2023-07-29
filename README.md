@@ -1,14 +1,14 @@
 ## A Simple Line Following Robot using Arduino uno.
 
+## Tools Used
+Arduino Uno, 2 x BO Motor (9-12V), L298N Motor Driver, 2 x Plastic Wheels, 2 x IR Sensor, Car's Chasis, Castor Wheel as Front wheel & 2 x Power Supply.
+
 ## Connections
 Refer to the below image while making connections.<br/>
 <p align = "center">
   <img src="./L298N-Motor-Driver.jpg" width = 50%/>
 </p>
 <br/>
-
-## Tools Used
-* Arduino Uno, 2 * BO Motor (9-12V), L298N Motor Driver, 2 * Plastic Wheels, 2 * IR Sensor, Car's Chasis, Castor Wheel as Front wheel & 2 * Power Supply.
 
 ### Pin Connections corresponding to the [`Line Follower Robot's`](./lineFollowerRobot.ino) code 
 
